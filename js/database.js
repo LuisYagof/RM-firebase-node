@@ -1,3 +1,7 @@
+import firebase from "firebase/app";
+import "firebase/database";
+
+
 var firebaseConfig = {
     apiKey: "AIzaSyD02waeVlthaPe7QFlEE7M8h_BN7ODQdiI",
     authDomain: "rick-and-morty--db.firebaseapp.com",
